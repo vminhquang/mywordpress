@@ -23,6 +23,10 @@
     animation-iteration-count: infinite;
     animation-direction: alternate;
 }
-.nghien input{
+.elementor-517 .elementor-element.elementor-element-dce9bca input{
+    box-shadow: none;
+}
+.elementor-517 .elementor-element.elementor-element-dce9bca input:active{
+    border: 0px;
     box-shadow: none;
 }/* End custom CSS */
