@@ -12,7 +12,7 @@
 	<atom:link href="https://vminhquang.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://vminhquang.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Tue, 08 Nov 2022 07:10:03 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 08 Nov 2022 07:34:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,8 +21,8 @@
 	<generator>https://wordpress.org/?v=6.1</generator>
 	<item>
 		<title>Top 5 Vòng Charm PNJ được ưa chuộng nhất.</title>
-		<link>https://vminhquang.github.io/mywordpress/top-5-vong-charm-pnj-dang-duoc-ua-chuong-nhat/</link>
-					<comments>https://vminhquang.github.io/mywordpress/top-5-vong-charm-pnj-dang-duoc-ua-chuong-nhat/#respond</comments>
+		<link>https://vminhquang.github.io/mywordpress/top-5-vong-charm-pnj-duoc-ua-chuong-nhat/</link>
+					<comments>https://vminhquang.github.io/mywordpress/top-5-vong-charm-pnj-duoc-ua-chuong-nhat/#respond</comments>
 		
 		<dc:creator><![CDATA[vominhquang]]></dc:creator>
 		<pubDate>Tue, 08 Nov 2022 06:38:00 +0000</pubDate>
@@ -38,7 +38,7 @@
 
 
 
-<p></p>
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
@@ -122,29 +122,33 @@
 
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center"><figure class="wp-block-media-text__media"><a href="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/10/vong-charm-pnj_2.jpg"><img decoding="async" loading="lazy" width="391" height="313" src="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/10/vong-charm-pnj_2.jpg" alt="vòng charm pnj" class="wp-image-1657 size-full"/></a></figure><div class="wp-block-media-text__content">
-<p>   </p>
+<div style="height:100px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
 
-<p></p>
+<div class="is-layout-flex wp-container-12 wp-block-columns alignwide are-vertically-aligned-center">
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<figure class="wp-block-image"><a href="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/10/vong-charm-pnj_2.jpg"><img decoding="async" loading="lazy" width="391" height="313" src="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/10/vong-charm-pnj_2.jpg" alt="vòng charm pnj" class="wp-image-1657"/></a></figure>
+</div>
 
 
 
-<p>   <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color"><em>Vò</em>ng Charm PNJ,Nhắc đến trang sức vàng bạc đá quý tại Việt Nam thì không thể không nhắc đến PNJ. Dù bạn có yêu thích trang sức hay không thì chắc chắn cũng đã từng nghe qua và thấy thương hiệu này. </mark></p>
+<div class="is-layout-flow wp-block-column" style="flex-basis:50%">
+<p class="has-text-align-left">   </p>
 
 
 
-<p>   <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">PNJ là công ty chuyên sản xuất các mặt hàng trang sức quý giá lớn nhất Việt Nam.Điểm qua một vài kiểu vòng charm đẹp của PNJ phải kể đến bộ sưu tập D.I.Y PNJSilver. Đây là tập hợp những thiết kế sắc sảo và vô cùng thu hút. Chất bạc tốt cùng với hạt charm phong phú như giày cao gót, túi xách, vương miện, chìa khóa. Màu sắc chủ yếu là màu đỏ, bạc, vàng và hồn..</mark></p>
+<p class="has-text-align-left"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color"><em>Vò</em>ng Charm PNJ,Nhắc đến trang sức vàng bạc đá quý tại Việt Nam thì không thể không nhắc đến PNJ. Dù bạn có yêu thích trang sức hay không thì chắc chắn cũng đã từng nghe qua và thấy thương hiệu này. </mark></p>
 
 
 
-<p></p>
+<p class="has-text-align-left">   <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">PNJ là công ty chuyên sản xuất các mặt hàng trang sức quý giá lớn nhất Việt Nam.Điểm qua một vài kiểu vòng charm đẹp của PNJ phải kể đến bộ sưu tập D.I.Y PNJSilver. 4</mark></p>
 
 
 
-<p>   <mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">Đây cũng là 1 trong những Vòng charm PNJ được ưa chuộng nhất hiện nay.p D.I.Y PNJSilver. Đây là tập hợp những thiết kế sắc sảo và vô cùng thu hút.Chất bạc tốt cùng với hạt charm phong phú như giày cao gót, túi xách, vương miện, chìa khóa. Màu sắc chủ yếu là màu đỏ.</mark></p>
-</div></div>
+<p class="has-text-align-left"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">Đây là tập hợp những thiết kế sắc sảo và vô cùng thu hút. Chất bạc tốt cùng với hạt charm phong phú như giày cao gót, túi xách, vương miện, chìa khóa. Màu sắc chủ yếu là màu đỏ, bạc, vàng và hồn.. </mark></p>
+</div>
+</div>
 
 
 
@@ -156,11 +160,7 @@
 
 
 
-<p></p>
-
-
-
-<div class="is-layout-flex wp-container-11 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-14 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-top" style="flex-basis:100%">
 <h2 class="alignwide"><strong>3/Vòng Charm PNJPandora Bạc</strong></h2>
 </div>
@@ -172,7 +172,7 @@
 
 
 
-<div class="is-layout-flex wp-container-14 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-17 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <p>   </p>
 
@@ -210,7 +210,7 @@
 
 
 
-<div class="is-layout-flex wp-container-16 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-19 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>4/</strong><strong>Vòng Charm PNJ </strong><strong>Pandora Mệnh Kim</strong></h2>
 </div>
@@ -222,7 +222,7 @@
 
 
 
-<div class="is-layout-flex wp-container-21 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-24 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <figure class="wp-block-image size-full"><a href="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/10/vong-charm-pnj_4.jpg"><img decoding="async" loading="lazy" width="400" height="340" src="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/10/vong-charm-pnj_4.jpg" alt="" class="wp-image-1654"/></a></figure>
 </div>
@@ -230,7 +230,7 @@
 
 
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
-<div class="is-layout-flex wp-container-19 wp-block-columns">
+<div class="is-layout-flex wp-container-22 wp-block-columns">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-top" style="flex-basis:100%">
 <p><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color"><em>   </em></mark></p>
 
@@ -256,7 +256,7 @@
 
 
 
-<div class="is-layout-flex wp-container-23 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-26 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>5/</strong><strong>Vòng Charm PNJ </strong><strong>Pandora Mệnh Hỏa</strong></h2>
 </div>
@@ -268,9 +268,9 @@
 
 
 
-<div class="is-layout-flex wp-container-28 wp-block-columns alignwide are-vertically-aligned-center">
+<div class="is-layout-flex wp-container-31 wp-block-columns alignwide are-vertically-aligned-center">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
-<div class="is-layout-flex wp-container-25 wp-block-columns are-vertically-aligned-center">
+<div class="is-layout-flex wp-container-28 wp-block-columns are-vertically-aligned-center">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:100%">
 <p>  </p>
 
@@ -329,7 +329,7 @@
 <p class="has-text-align-center"><mark style="background-color:rgba(0, 0, 0, 0)" class="has-inline-color has-black-color">Link bài viết:</mark>   <a href="https://vminhquang.github.io/mywordpress/blog/" target="_blank" rel="noreferrer noopener">https://vminhquang.github.io/mywordpress/blog/</a></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://vminhquang.github.io/mywordpress/top-5-vong-charm-pnj-dang-duoc-ua-chuong-nhat/feed/</wfw:commentRss>
+					<wfw:commentRss>https://vminhquang.github.io/mywordpress/top-5-vong-charm-pnj-duoc-ua-chuong-nhat/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
@@ -346,7 +346,7 @@
 
 					<description><![CDATA[Theo như chúng ta được biết thì Bóng đá được coi là một môn thể thao vua của Thế Giới, thu hút được hầu hết sự quan tâm của mọi người xem và là chủ đề chưa bao giờ hết hot để mọi người có thể bàn tán về nó .Nhờ vậy mà hằng năm [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="is-layout-flex wp-container-30 wp-block-columns alignwide are-vertically-aligned-top">
+<div class="is-layout-flex wp-container-33 wp-block-columns alignwide are-vertically-aligned-top">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-top" style="flex-basis:100%">
 <p><em>Theo như chúng ta được biết thì Bóng đá được coi là một môn thể thao vua của Thế Giới, thu hút được hầu hết sự quan tâm của mọi người xem và là chủ đề chưa bao giờ hết hot để mọi người có thể bàn tán về nó .Nhờ vậy mà hằng năm luôn được tổ chức các giải Bóng đá lớn khác nhau của từng khu vực khác nhau.Nhờ vậy chúng ta cần phải có những Sân Vận Động&amp;Sân Bóng Đá là nơi tập hợp tất cả mọi người lại với nhau để có thể ngồi trên khán đài chứng kiến được hết những tình tiết diễn ra trên sân cỏ một cách chân thật nhất,không chỉ là môn thể thao Bóng Đá mà còn các môn thể thao khác hay là những chương trình âm nhạc ngoài trời,&#8230;.Vì vậy,hiện nay trên thể giới đã xây dựng được các loại Sân Vận Động&amp;Sân Bóng lớn nhỏ khác nhau.Và sau đây là Top 10 Sân Bóng Đá&amp;Sân Vận Động Lớn Nhất Thế Giới Hiện Nay với sức chứa cực kỳ lớn.</em></p>
 </div>
@@ -354,7 +354,7 @@
 
 
 
-<div class="is-layout-flex wp-container-32 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-35 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>1/ Sân Bóng Đá Borg El Arab</strong></h2>
 <p></p>
@@ -363,7 +363,7 @@
 
 
 
-<div class="is-layout-flex wp-container-35 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-38 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <p>Sân vận động Borg El Arab còn được hay gọi là Sân Vận Động Quân Đội Ai Cập hoặc Sân Vận Động El Geish-Alexandira.Được đưa vào hoạt động vào năm 2005 tại khu nghỉ mát Borg El Arab trên Địa Trung Hải.Là Sân Vận Động lớn nhất Ai Cập và lớn thứ hai Châu Phi với sức chủa 86.030 người.Sân Vận Động rộng 145 feddan (khoảng 609.100 mét vuông).</p>
 </div>
@@ -377,7 +377,7 @@
 
 
 
-<div class="is-layout-flex wp-container-37 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-40 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>2/ Sân Bóng Đá Quốc Gia Bukit Jalil</strong></h2>
 </div>
@@ -393,7 +393,7 @@
 
 
 
-<div class="is-layout-flex wp-container-39 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-42 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>3/Sân Vận Động Rose Bowl</strong></h2>
 <p> </p>
@@ -402,7 +402,7 @@
 
 
 
-<div class="is-layout-flex wp-container-42 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-45 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <p>Rose Bowl là một sân vận động thể thao ngoài trời của Hoa Kỳ,nằm ở ngoại ô Pasadena,California,Los Angeles.&nbsp;Được khánh thành vào tháng 10 năm 1922, sân vận động được công nhận là&nbsp;Địa danh Lịch sử Quốc gia Hoa Kỳ&nbsp;và Địa danh Lịch sử Xây dựng Dân dụng California.Với sức chứa hiện tại của cấu hình toàn chỗ ngồi là 92.542 chỗ ngồi.Rose Bowl là sân vận động lớn thứ 11 của Hoa Kỳ và lớn thứ 10 của NCAA.</p>
 </div>
@@ -416,7 +416,7 @@
 
 
 
-<div class="is-layout-flex wp-container-44 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-47 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>4/Sân Vận Động FNB(Soccer City)</strong></h2>
 <p></p>
@@ -425,7 +425,7 @@
 
 
 
-<div class="is-layout-flex wp-container-49 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-52 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:50%">
 <figure class="wp-block-image"><img decoding="async" loading="lazy" width="735" height="488" src="https://vminhquang.github.io/mywordpress/wp-content/uploads/2022/08/fnb.jpg" alt="" class="wp-image-32"/></figure>
 </div>
@@ -433,7 +433,7 @@
 
 
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
-<div class="is-layout-flex wp-container-47 wp-block-columns">
+<div class="is-layout-flex wp-container-50 wp-block-columns">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:100%">
 <p>Sân vận động First National Bank&nbsp;hoặc đơn giản là&nbsp;Sân vận động FNB, cũng được biết đến với tên&nbsp;Soccer City&nbsp;và&nbsp;The Calabash, là một sân vận động&nbsp;bóng đá&nbsp;và rugby onion&nbsp;nằm ở&nbsp;Nasrec, giáp với khu vực&nbsp;Soweto&nbsp;của&nbsp;Johannesburg,&nbsp;Cộng hòa Nam Phi.&nbsp;</p>
 </div>
@@ -443,7 +443,7 @@
 
 
 
-<div class="is-layout-flex wp-container-51 wp-block-columns alignwide">
+<div class="is-layout-flex wp-container-54 wp-block-columns alignwide">
 <div class="is-layout-flow wp-block-column" style="flex-basis:100%">
 <h2><strong>5/Sân Bóng Đá Camp Nou</strong></h2>
 <p></p>
@@ -452,9 +452,9 @@
 
 
 
-<div class="is-layout-flex wp-container-56 wp-block-columns alignwide are-vertically-aligned-center">
+<div class="is-layout-flex wp-container-59 wp-block-columns alignwide are-vertically-aligned-center">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:50%">
-<div class="is-layout-flex wp-container-53 wp-block-columns are-vertically-aligned-center">
+<div class="is-layout-flex wp-container-56 wp-block-columns are-vertically-aligned-center">
 <div class="is-layout-flow wp-block-column is-vertically-aligned-center" style="flex-basis:100%">
 <p>Spotify Camp Nou&nbsp;(hay Camp Nou), là một&nbsp;sân vận động&nbsp;bóng đá&nbsp;ở thành phố&nbsp;Barcelona,&nbsp;Catalunya,&nbsp;Tây Ban Nha. Sân được khánh thành vào năm 1957 và là sân nhà của&nbsp;FC Barcelona&nbsp;kể từ khi hoàn thành.Với sức chứa 99.354 chỗ ngồi, đây là&nbsp;sân vận động lớn nhất ở Tây Ban Nha&nbsp;và&nbsp;Châu Âu, và là&nbsp;sân vận động bóng đá lớn thứ tư trên thế giới&nbsp;về sức chứa.&nbsp;</p>
 </div>
